@@ -1,0 +1,38 @@
+.titre 
+{ text-align: center;
+ margin-bottom:10%
+
+}
+
+body
+{ color:rgb(5, 5, 36);
+    font-size: xx-large;
+
+}
+
+#texte1
+{text-align: right;
+margin-left: 800px;
+margin-bottom:10%  
+
+
+
+
+#texte2
+{text-align: left;
+ margin-right: 800px;
+ margin-bottom:10% 
+}
+
+#image2 
+{border-radius:50% 
+}
+
+
+#texte3
+{text-align: right;
+ margin-left:800px;
+ margin-bottom:10%
+   
+}
+
