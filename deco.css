@@ -1,38 +1,14 @@
-.titre 
-{ text-align: center;
- margin-bottom:10%
+body{ 
 
+  font-family: sans-serif;
+  font-size: 14px ;
+  line-height: 1.6rem ;
+  margin: 0 ;
+  padding: 0 ;
+  background-color: #bdd7d1 ;
+ 
 }
 
-body
-{ color:rgb(5, 5, 36);
-    font-size: xx-large;
+h1{ text-align: center ;
 
 }
-
-#texte1
-{text-align: right;
-margin-left: 800px;
-margin-bottom:10%  
-
-
-
-
-#texte2
-{text-align: left;
- margin-right: 800px;
- margin-bottom:10% 
-}
-
-#image2 
-{border-radius:50% 
-}
-
-
-#texte3
-{text-align: right;
- margin-left:800px;
- margin-bottom:10%
-   
-}
-
